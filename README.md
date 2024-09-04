@@ -1,5 +1,7 @@
 # 👨‍💻 Mahmoud Yusuf
 
+![Mahmoud Yusuf's Avatar]([https://www.gravatar.com/avatar/yourhash](https://gravatar.com/avatar/a206a52e25b2e4868cb927b14688503a?size=256&cache=1725424446870)?s=200) 
+
 ### Software Engineer | .NET Enthusiast
 
 ---
