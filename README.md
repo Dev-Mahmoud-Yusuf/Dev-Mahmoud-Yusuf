@@ -6,7 +6,7 @@
 ---
 
 #### 🛠 About Me
-I am a dedicated software engineer focused on creating efficient and scalable solutions within the .NET ecosystem. My expertise spans across a variety of technologies, enabling me to build versatile applications tailored to meet both business and technical needs.
+I am a **Reliable**, **Disciplined**, and **Workaholic** Software Engineer focused on creating efficient and scalable solutions within the .NET ecosystem. My expertise spans across a variety of technologies, enabling me to build versatile applications tailored to meet both business and technical needs.
 
 #### 🚀 Core Competencies
 
@@ -20,9 +20,13 @@ I am a dedicated software engineer focused on creating efficient and scalable so
 - **Web Technologies:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 - **UI Frameworks:** ![MVC](https://img.shields.io/badge/-MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/-WinForms-0078D4?style=flat-square&logo=windows&logoColor=white) ![DevExpress](https://img.shields.io/badge/-DevExpress-FF6600?style=flat-square&logo=devexpress&logoColor=white)
 
+**Styling & Design:**
+- **CSS:** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Bootstrap:** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 **Additional Skills:**
 - **Scripting & Automation:** ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-4CAF50?style=flat-square&logo=ajax&logoColor=white)
-- **Markup & Data Formats:** ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white) 
+- **Markup & Data Formats:** ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 
 ---
 
