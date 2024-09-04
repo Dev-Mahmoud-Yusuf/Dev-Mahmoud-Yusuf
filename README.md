@@ -12,7 +12,7 @@ I am a **Reliable**, **Disciplined**, and **Workaholic** Software Engineer focus
 
 **Backend Development:**
 - **Languages & Frameworks:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-- **Data Access:** ![LINQ](https://img.shields.io/badge/-LINQ-800080?style=flat-square&logo=nuget&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-5C2D91?style=flat-square&logo=nuget&logoColor=white) ![Dapper](https://img.shields.io/badge/-Dapper-2C2E3B?style=flat-square&logo=nuget&logoColor=white) ![ADO.NET](https://img.shields.io/badge/-ADO.NET-0096D6?style=flat-square&logo=microsoft&logoColor=white)
+- **ORM & Data Access:** ![LINQ](https://img.shields.io/badge/-LINQ-800080?style=flat-square&logo=nuget&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-5C2D91?style=flat-square&logo=nuget&logoColor=white) ![Dapper](https://img.shields.io/badge/-Dapper-2C2E3B?style=flat-square&logo=nuget&logoColor=white) ![ADO.NET](https://img.shields.io/badge/-ADO.NET-0096D6?style=flat-square&logo=microsoft&logoColor=white)
 - **Real-time Communication:** ![SignalR](https://img.shields.io/badge/-SignalR-1C88C7?style=flat-square&logo=signalr&logoColor=white)
 - **Databases:** ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
