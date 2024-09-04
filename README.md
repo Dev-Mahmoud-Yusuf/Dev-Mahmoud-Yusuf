@@ -22,7 +22,7 @@ I am a dedicated software engineer focused on creating efficient and scalable so
 
 **Additional Skills:**
 - **Scripting & Automation:** ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-4CAF50?style=flat-square&logo=ajax&logoColor=white)
-- **Markup & Data Formats:** ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+- **Markup & Data Formats:** ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white) 
 
 ---
 
